@@ -1,1 +1,1 @@
-Increase-Number-of-Close-Won-Opportunities-Accelerators
+Incentivize-Closing-Big-Deals-Accelerators
