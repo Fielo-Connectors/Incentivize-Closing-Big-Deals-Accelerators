@@ -12,7 +12,7 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>ClosingADealBeforeADate</members>
+        <members>ClosingBigDeals</members>
         <name>StaticResource</name>
     </types>
     <version>41.0</version>
